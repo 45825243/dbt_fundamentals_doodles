@@ -6,13 +6,17 @@ For now I'm in a middle of a course 'dbt foundation' and I want to use it to rem
 Since I have VS Code installed, I open it and create a new project. I choose the folder with a screenshot of my corrent course status.
 I initiate git repository using command `git init` . 
 
-After that I `git status` to check what is going on and receive a message "On branch master, no commits yet".. What a surprise. I think I need `git remote add origin *path*`
+Connect my VScode with my GitHub repo with  `git remote add origin https://github.com/45825243/dbt_fundamentals_doodles.git`
 
-`git branch` showed "master" so I decided to create a "main" branch because I see main branch on the site. Let's try with `git checkout -b main`. Success!
+Now I need to `git pull original main` 
 
-Let's try to download a picture to github. Use `git add progress.png` and then `git commit -m "Picture of dbt course progress added"` and then `git push origin main` .. And thennn **error** . Am I dumb?
+After that I `git status` to check what is going on and receive a message "On branch master, no commits yet".. What a surprise. But  `git branch` showed "master" so I decided to create a "main" branch because I see main branch on the site. Let's try with `git checkout -b main`. Success!
 
-Yep I forgot to do `git pull original main` soo I fixed it. Not sure so need to do it once again.
+Let's try to download a picture to github. Use `git add dbt_progress.png` and then `git commit -m "Picture of dbt course progress added"` and then `git push origin main` .. Success! I'm good:)
+
+One more commit of my doodles and go to bed. Tick Commit and `git push origin main`
+
+
 
 
 
