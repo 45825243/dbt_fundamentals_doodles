@@ -14,7 +14,7 @@ After that I `git status` to check what is going on and receive a message "On br
 
 Let's try to download a picture to github. Use `git add dbt_progress.png` and then `git commit -m "Picture of dbt course progress added"` and then `git push origin main` .. Success! I'm good:)
 
-One more commit of my doodles and go to bed. Tick Commit and `git push origin main`
+One more commit of my doodles and go to bed. `git add .` `git commit -m "Readme edited"` `git push origin main`
 
 
 
