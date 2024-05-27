@@ -10,7 +10,7 @@ After that I `git status` to check what is going on and receive a message "On br
 
 `git branch` showed "master" so I decided to create a "main" branch because I see main branch on the site. Let's try with `git checkout -b main`. Success!
 
-Let's try to download a picture to github. Use `git add progress.png' and then `git commit -m "Picture of dbt course progress added"` and then `git push origin main` .. And thennn **error** . Am I dubm?
+Let's try to download a picture to github. Use `git add progress.png' and then `git commit -m "Picture of dbt course progress added"` and then `git push origin main` .. And thennn **error** . Am I dumb?
 
 
 
