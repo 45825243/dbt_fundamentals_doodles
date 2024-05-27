@@ -6,7 +6,7 @@ For now I'm in a middle of a course 'dbt foundation' and I want to use it to rem
 Since I have VS Code installed, I open it and create a new project. I choose the folder with a screenshot of my corrent course status.
 I initiate git repository using command `git init` . 
 
-After that I `git status` to check what is going on and receive a message "On branch master, no commits yet".. What a surprise. I think I need 'git remote add origin *path*'
+After that I `git status` to check what is going on and receive a message "On branch master, no commits yet".. What a surprise. I think I need `git remote add origin *path*`
 
 `git branch` showed "master" so I decided to create a "main" branch because I see main branch on the site. Let's try with `git checkout -b main`. Success!
 
