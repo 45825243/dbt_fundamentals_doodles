@@ -3,5 +3,7 @@
 I'll use this repo as a draft. Need to remember a lot of things.
 For now I'm in a middle of a course 'dbt foundation' and I want to use it to remeber how github works.
 ## Set up a github
-Since I have VS Code installed, I open it and create a new project. I choose the folder with 
+Since I have VS Code installed, I open it and create a new project. I choose the folder with a screenshot of my corrent course status.
+I initiate git repository using command `git init` 
+
  
