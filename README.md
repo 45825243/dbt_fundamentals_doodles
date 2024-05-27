@@ -12,7 +12,9 @@ After that I `git status` to check what is going on and receive a message "On br
 
 Let's try to download a picture to github. Use `git add progress.png` and then `git commit -m "Picture of dbt course progress added"` and then `git push origin main` .. And thennn **error** . Am I dumb?
 
-Yep I forgot to do `git pull original main` soo I fixed it
+Yep I forgot to do `git pull original main` soo I fixed it. Not sure so need to do it once again.
+
+
 
 
 
